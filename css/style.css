@@ -1,10 +1,10 @@
 @font-face {
     font-family: Monsterrat;
-    src: url(/fonts/Montserrat-Bold.woff2);
+    src: url(/dok/fonts/Montserrat-Bold.woff2);
 }
 @font-face {
     font-family: Fira;
-    src: url(/fonts/FiraSans-Light.otf);
+    src: url(/dok/fonts/FiraSans-Light.otf);
 }
 *{
   padding: 0;
