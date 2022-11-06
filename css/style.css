@@ -41,7 +41,7 @@ img{vertical-align: top;}
 body {
     text-transform: uppercase;
     color: #FFFFFF;
-    background: ##0d1117;
+    background: #0d1117;
 }
 .line__text- {
     font-family: Monsterrat;
@@ -283,7 +283,7 @@ header {
     grid-row-gap: 35px;
 }
 .color-item {
-    background-color: ##1f2124;
+    background-color: #1f2124;
     width: 376px;
     height: 180px;
     border-radius: 16px;
