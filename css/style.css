@@ -345,20 +345,80 @@ header {
     .items {
         margin-bottom: 50px;
     }
-    .desc_title- {
-        font-size: 50px;
-    }
     .img-portfolio__img {
-        width: 600px;
+        width: 250px;
+        display: flex;
+        flex-wrap: wrap;
     }
     header {
         display: none;
     }
     .port-img__block {
-        margin-left: 210px;
+        margin-right: 215px;
     }
-    .block__one {
-        margin-left: 100px;
+    .title-block__four {
+        font-size: 30px;
+    }
+    .line__text- {
+        font-size: 30px;
+    }
+    .line__text-::after {
+        top: 0;
+        left: 0;
+        margin-left: 10px;
+        margin-top: -45px;
+    }
+    .numbers-itm {
+        font-size: 18px;
+    }
+    .title-itm {
+        font-size: 28px;
+    }
+    .desc-items {
+        font-size: 10px;
+        width: 205px;
+    }
+    .title_sim- {
+        width: 274px;
+    }
+    .desc_dok {
+        font-size: 14px;
+    }
+    .desc_dok::after {
+        display: none;
+    }
+    .title-block__two {
+        font-size: 30px;
+        text-align: center;
+    }
+    .desc__titke-two {
+        font-size: 20px;
+        width: 200px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    .title__block__ {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .wrap {
+        display: none;
+    }
+    .title__one__block {
+        font-size: 15px;
+    }
+    .desc_title- {
+        font-size: 30px;
+        width: 100px;
+        line-height: 1;
+    }
+    .title-one- {
+        display: flex;
+        justify-content: flex-start;
+        margin-right: 200px;
+    }
+    .title__block__wl {
+        margin-left: 75px;
     }
 }
 
@@ -371,20 +431,80 @@ header {
     .items {
         margin-bottom: 50px;
     }
-    .desc_title- {
-        font-size: 50px;
-    }
     .img-portfolio__img {
-        width: 600px;
+        width: 250px;
+        display: flex;
+        flex-wrap: wrap;
     }
     header {
         display: none;
     }
     .port-img__block {
-        margin-left: 110px;
+        margin-right: 215px;
     }
-    .block__one {
-        margin-left: 100px;
+    .title-block__four {
+        font-size: 30px;
+    }
+    .line__text- {
+        font-size: 30px;
+    }
+    .line__text-::after {
+        top: 0;
+        left: 0;
+        margin-left: 10px;
+        margin-top: -45px;
+    }
+    .numbers-itm {
+        font-size: 18px;
+    }
+    .title-itm {
+        font-size: 28px;
+    }
+    .desc-items {
+        font-size: 10px;
+        width: 205px;
+    }
+    .title_sim- {
+        width: 274px;
+    }
+    .desc_dok {
+        font-size: 14px;
+    }
+    .desc_dok::after {
+        display: none;
+    }
+    .title-block__two {
+        font-size: 30px;
+        text-align: center;
+    }
+    .desc__titke-two {
+        font-size: 20px;
+        width: 200px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    .title__block__ {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .wrap {
+        display: none;
+    }
+    .title__one__block {
+        font-size: 15px;
+    }
+    .desc_title- {
+        font-size: 30px;
+        width: 100px;
+        line-height: 1;
+    }
+    .title-one- {
+        display: flex;
+        justify-content: flex-start;
+        padding-left: 100px;
+    }
+    .title__block__wl {
+        margin-left: 75px;
     }
 }
 
@@ -397,25 +517,110 @@ header {
     .items {
         margin-bottom: 50px;
     }
-    .desc_title- {
-        font-size: 50px;
-    }
     .img-portfolio__img {
-        width: 600px;
-    }
-    .dok {
+        width: 250px;
         display: flex;
+        flex-wrap: wrap;
     }
     header {
         display: none;
     }
     .port-img__block {
-        margin-left: 220px;
+        padding-left: 220px;
+    }
+    .title-block__four {
+        font-size: 30px;
+    }
+    .line__text- {
+        font-size: 30px;
+    }
+    .line__text-::after {
+        top: 0;
+        left: 0;
+        margin-left: 10px;
+        margin-top: -45px;
+    }
+    .numbers-itm {
+        font-size: 18px;
+    }
+    .title-itm {
+        font-size: 28px;
+    }
+    .desc-items {
+        font-size: 10px;
+        width: 205px;
+    }
+    .title_sim- {
+        width: 274px;
+    }
+    .desc_dok {
+        font-size: 14px;
+    }
+    .desc_dok::after {
+        display: none;
+    }
+    .title-block__two {
+        font-size: 30px;
+        text-align: center;
+    }
+    .desc__titke-two {
+        font-size: 20px;
+        width: 200px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    .title__block__ {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .wrap {
+        display: none;
+    }
+    .title__one__block {
+        font-size: 15px;
+    }
+    .desc_title- {
+        font-size: 30px;
+        width: 100px;
+        line-height: 1;
+    }
+    .title-one- {
+        display: flex;
+        justify-content: flex-start;
+        margin-right: 200px;
+    }
+    .title__block__wl {
+        padding-left: 705px;
+    }
+}
+
+@media screen and (min-width: 820px) {
+    .title__block__wl {
+        padding-left: 200px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .title__block__wl {
+        padding-left: 200px;
+    }
+}
+
+@media screen and (min-width: 540px) {
+    .title__block__wl {
+        padding-right: 700px;
+    }
+}
+
+@media screen and (min-width: 540px) {
+    .title__block__wl {
+        padding-left: 90px;
     }
 }
 
 @media screen and (max-width: 479px) {
 /* стили для телефонов - начало */
+
     .parent {
         display: block;
         margin-bottom: 30px;
@@ -423,19 +628,79 @@ header {
     .items {
         margin-bottom: 50px;
     }
-    .desc_title- {
-        font-size: 50px;
-    }
     .img-portfolio__img {
-        width: 600px;
-    }
-    .dok {
+        width: 250px;
         display: flex;
+        flex-wrap: wrap;
     }
     header {
         display: none;
     }
     .port-img__block {
-        margin-left: 220px;
+        margin-right: 215px;
+    }
+    .title-block__four {
+        font-size: 30px;
+    }
+    .line__text- {
+        font-size: 30px;
+    }
+    .line__text-::after {
+        top: 0;
+        left: 0;
+        margin-left: 10px;
+        margin-top: -45px;
+    }
+    .numbers-itm {
+        font-size: 18px;
+    }
+    .title-itm {
+        font-size: 28px;
+    }
+    .desc-items {
+        font-size: 10px;
+        width: 205px;
+    }
+    .title_sim- {
+        width: 274px;
+    }
+    .desc_dok {
+        font-size: 14px;
+    }
+    .desc_dok::after {
+        display: none;
+    }
+    .title-block__two {
+        font-size: 30px;
+        text-align: center;
+    }
+    .desc__titke-two {
+        font-size: 20px;
+        width: 200px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    .title__block__ {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .wrap {
+        display: none;
+    }
+    .title__one__block {
+        font-size: 15px;
+    }
+    .desc_title- {
+        font-size: 30px;
+        width: 100px;
+        line-height: 1;
+    }
+    .title-one- {
+        display: flex;
+        justify-content: flex-start;
+        margin-right: 200px;
+    }
+    .title__block__wl {
+        margin-left: 75px;
     }
 }
